@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+.caja1 {
+    background-color: rgb(204, 0, 255);
+    
+}
+
+.caja2 {
+    background-color: blue;
+    
+}
+
+.caja3 {
+    background-color: blueviolet;
+    
+}
+
+.caja4 {
+    background-color: aqua;
+    
+}
+
+.caja5 {
+    background-color: blue;
+    
+}
+
+.caja6 {
+    background-color: blueviolet;
+    
+}
+
+.caja7 {
+    background-color: aqua;
+    
+}
+
+.caja8 {
+    background-color: blue;
+    
+}
+
+.caja9 {
+    background-color: blueviolet;
+    
+}
+
+.caja10 {
+    background-color: aqua;
+    
+}
+
+.caja11 {
+    background-color: blue;
+    
+}
+
+.caja12 {
+    background-color: blueviolet;
+    
+}
+
+.caja13 {
+    background-color: aqua;
+    
+}
+
+.caja14 {
+    background-color: blue;
+    
+}
+
+.caja15 {
+    background-color: blueviolet;
+    
+}
+
+.caja16 {
+    background-color: aqua;
+    
+}
+
+.caja17 {
+    background-color: blue;
+    
+}
+
+h2 {
+    color: chartreuse
+}
+
+.cajaVacia {
+    background-color: black;
+    height: 200px;
+}
+
+.cajaImagen {
+    background-color: brown;
+    height: 400px;
+    width: 80%;
+}
+
+.circulito {
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+    border-radius: 100%;
+}
+
+.galada-regular {
+    font-family: "Galada", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.sobre {
+
+}
+
+.sobre:hover {
+    background-color: gray;
+    border: 1px black solid;
+    border-radius: 10px;
+}
